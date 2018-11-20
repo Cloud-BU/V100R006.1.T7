@@ -19,4 +19,4 @@ November 10   |	Veterans Day
 November 23-24|	Thanksgiving (Fourth Thursday in November)
 December 22   | Christmas Eve
 December 25   |	Christmas Day
-editing for new version 
+editing for new version | jk

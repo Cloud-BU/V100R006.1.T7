@@ -21,5 +21,7 @@ In this workshop you will learn:
 
 Enjoy!
 
+Github training for Huawei
+
 
 ----------

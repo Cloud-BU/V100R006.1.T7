@@ -21,3 +21,4 @@ December 22   | Christmas Eve
 December 25   |	Christmas Day
 editing for new version | test for training
 File editted by vikas for training
+Git training on Nov 20
